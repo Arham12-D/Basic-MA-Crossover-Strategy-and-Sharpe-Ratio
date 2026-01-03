@@ -1,0 +1,1 @@
+# Basic-MA-Crossover-Strategy-and-Sharpe-Ratio
